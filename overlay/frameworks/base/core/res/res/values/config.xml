@@ -21,8 +21,6 @@
 
     <bool name="config_lidControlsSleep">true</bool>
 
-    <integer name="config_deviceHardwareKeys">0</integer>
-
     <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
                            autodetected from the Configuration. -->
     <bool name="config_showNavigationBar">true</bool>
